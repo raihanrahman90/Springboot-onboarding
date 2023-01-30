@@ -1,6 +1,6 @@
 package com.example.onboarding.poc2.model;
 
-import jakarta.persistence.*
+import jakarta.persistence.*;
 
 @Entity
 @Table(name="books")
